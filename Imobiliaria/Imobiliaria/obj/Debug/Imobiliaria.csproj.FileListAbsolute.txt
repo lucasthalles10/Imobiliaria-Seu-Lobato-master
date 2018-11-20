@@ -1,0 +1,7 @@
+C:\Users\filip\Desktop\Prog\PUC\ImobiliariaSeuLobato\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\Prog\PUC\ImobiliariaSeuLobato\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Prog\PUC\ImobiliariaSeuLobato\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe.config
+C:\Users\filip\Desktop\Prog\PUC\ImobiliariaSeuLobato\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe
+C:\Users\filip\Desktop\Prog\PUC\ImobiliariaSeuLobato\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.pdb
+C:\Users\filip\Desktop\Prog\PUC\ImobiliariaSeuLobato\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.exe
+C:\Users\filip\Desktop\Prog\PUC\ImobiliariaSeuLobato\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.pdb
